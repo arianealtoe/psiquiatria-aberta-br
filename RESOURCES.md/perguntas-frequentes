@@ -1,0 +1,26 @@
+# Frequently Asked Questions (FAQ)
+
+This section provides brief answers to common questions about the project and its content.
+
+## What is this project?
+Psiquiatria Aberta BR is an open Brazilian repository for practical psychiatry education in Portuguese. It brings together educational summaries, practical guides, and reference materials for clinicians, residents, students, and the community.
+
+## Who can use this content?
+The content is intended for:
+- Psychiatry residents and medical students
+- General practitioners and healthcare professionals
+- People interested in mental health education
+
+All users should remember that the material is educational and does not replace formal training or individualized medical care.
+
+## Can I contribute?
+Yes. Contributions are welcome, especially for:
+- Improving clarity and structure of educational materials
+- Correcting grammar or formatting
+- Suggesting references
+- Adding new topic summaries
+
+Please read `CONTRIBUTING.md` before opening a pull request.
+
+## Is this medical advice?
+No. This repository does not provide personalized medical advice. All content is for educational purposes only and should not replace clinical judgment, local protocols, or consultation with qualified professionals.
