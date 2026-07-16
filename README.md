@@ -41,3 +41,12 @@ Please read `CONTRIBUTING.md` before opening a pull request.
 
 ## License
 This project is open-source and available under the MIT License.
+
+## Roadmap
+This is a long-term project. Planned next steps include:
+- Expand content with more psychiatric topics and clinical guides
+- Improve structure and navigation of educational materials
+- Add references and links to open-access resources
+- Explore collaborations with students, residents, and professionals interested in mental health education
+
+Contributions and suggestions are welcome.
